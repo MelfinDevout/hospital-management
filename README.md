@@ -1,5 +1,5 @@
 Hospital-Managment-System-in-C
-This is our semester project using c language.
+This is my semester project using c language.
 we have successfully completed by First C program
 This project is helpful to keep details of Patient,staff,Inventory in the Hospital.
 These operations can be done.
